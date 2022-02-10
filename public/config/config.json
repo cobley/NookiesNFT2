@@ -1,0 +1,18 @@
+{
+  "CONTRACT_ADDRESS": "0xf6CCFE8dF169bD12c29Dd4b8C12572224474fE30",
+  "SCAN_LINK": "https://mumbai.polygonscan.com/address/0xf6ccfe8df169bd12c29dd4b8c12572224474fe30",
+  "NETWORK": {
+    "NAME": "Polygon",
+    "SYMBOL": "Matic",
+    "ID": 137
+  },
+  "NFT_NAME": "Nookies",
+  "SYMBOL": "NKS",
+  "MAX_SUPPLY": 1000,
+  "WEI_COST": 4000000000000000000,
+  "DISPLAY_COST": 4,
+  "GAS_LIMIT": 285000,
+  "MARKETPLACE": "Opeansea",
+  "MARKETPLACE_LINK": "https://testnets.opensea.io/collection/nookies",
+  "SHOW_BACKGROUND": true
+}
